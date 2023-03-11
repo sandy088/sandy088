@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sandy088<br>👩‍💻I'm Currently doing web dev (full stack)<br>👀 I’m interested in DSA, 📱App dev, web dev, Learning New Skills<br>⚡Learning more about Flutter and 📱developing apps<br>⭐DSA in Java, C++
+👋 Hi, I’m @sandy088<br>👨‍💻 Full-stack web developer & Flutter enthusiast 📱 Passionate about creating dynamic web & mobile apps that solve real-world problems 💻 Lifelong learner, open-source contributor & collaborator 🤝 Let's build something great together!
 
 
 ## 🌐 Socials:

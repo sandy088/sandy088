@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sandy088<br>👨‍💻 Full-stack web developer & Flutter enthusiast 📱 Passionate about creating dynamic web & mobile apps that solve real-world problems 💻 Lifelong learner, open-source contributor & collaborator 🤝 Let's build something great together!
+Hey 👋 Everyone, I am a 👨‍💻 Full-stack web developer with expertise in MERN, Nextjs, Typescript + Still grabbing skills 💻, Open to exciting opportunities🤝
 
 
 ## 🌐 Socials:

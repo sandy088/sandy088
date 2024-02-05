@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋 Everyone, I am a 👨‍💻 Full-stack web developer with expertise in MERN, Nextjs, Typescript + Still grabbing skills 💻, Open to exciting opportunities🤝
+Hey 👋 Everyone, I am Sandeep Singh, A 👨‍💻 Full-stack web developer with expertise in MERN, Nextjs, Typescript + Still grabbing skills 💻, Open to exciting opportunities🤝
 
 
 ## 🌐 Socials:
